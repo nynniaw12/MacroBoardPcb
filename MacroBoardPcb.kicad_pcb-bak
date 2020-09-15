@@ -1184,7 +1184,7 @@
     (tags SOD-123)
     (path /5F6A78F5)
     (attr smd)
-    (fp_text reference D5 (at -0.025 1.94 90) (layer F.SilkS)
+    (fp_text reference D5 (at 0 -2 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SOD-123 (at 0 2.1 90) (layer F.Fab)
