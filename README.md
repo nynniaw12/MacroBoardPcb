@@ -1,2 +1,3 @@
 # MacroBoardPcb
-Pcb of the macroboard
+
+PCB for a custom Macroboard.
